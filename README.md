@@ -7,7 +7,7 @@ Crafting seamless web experiences using **React.js**, **Appwrite**, **Firebase**
 
 ### 👨‍💻 About Me
 - 💡 Love to code and solve problems—always up for a new challenge!
-- 📝 I build cool things like [Blog-app](#) and [Quiz-app](#) (Check out my pinned repos!)
+- 📝 I build cool things like [Blog-app](https://github.com/Vishalkhandal/blog-app) and [Quiz-app](https://github.com/Vishalkhandal/quiz-app) (Check out my pinned repos!)
 - 🌱 Continuously learning and exploring the latest in web technologies.
 
 ---
