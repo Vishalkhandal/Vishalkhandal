@@ -34,7 +34,6 @@ Crafting seamless web experiences using **React.js**, **Appwrite**, **Firebase**
 ### ⚡ Fun Facts
 - 🏐 Handball enthusiast
 - 🏋️ Regular at the gym
-- 🕺 Passionate about modeling
 
 ---
 
